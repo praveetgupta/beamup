@@ -1,13 +1,13 @@
 
 const cardObjectDefinitions = [
-    {id:1, imagePath:'file:///Users/praveetgupta/Downloads/beamup/images/card-KingHearts.png'},
-    {id:2, imagePath:'file:///Users/praveetgupta/Downloads/beamup/images/card-JackClubs.png'},
-    {id:3, imagePath:'file:///Users/praveetgupta/Downloads/beamup/images/card-QueenDiamonds.png'},
-    {id:4, imagePath:'file:///Users/praveetgupta/Downloads/beamup/images/card-AceSpades.png'},
+    {id:1, imagePath:'file:///Users/praveetgupta/Documents/GitHub/beamup/images/card-KingHearts.png'},
+    {id:2, imagePath:'file:///Users/praveetgupta/Documents/GitHub/beamup/images/card-JackClubs.png'},
+    {id:3, imagePath:'file:///Users/praveetgupta/Documents/GitHub/beamup/images/card-QueenDiamonds.png'},
+    {id:4, imagePath:'file:///Users/praveetgupta/Documents/GitHub/beamup/images/card-AceSpades.png'},
 ]
 const aceId = 4
 
-const cardBackImgPath = 'file:///Users/praveetgupta/Downloads/beamup/images/card-back-Blue.png'
+const cardBackImgPath = 'file:///Users/praveetgupta/Documents/GitHub/beamup/images/card-back-Blue.png'
 
 let cards = []
 
